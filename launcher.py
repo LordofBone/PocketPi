@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #Original script from Pimoroni and modified by me for different functions
 #https://github.com/pimoroni/touch-phat
+# https://github.com/pimoroni/touch-phat/blob/master/LICENSE
 
 import os
 import signal
